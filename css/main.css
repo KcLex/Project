@@ -1,0 +1,155 @@
+
+@media screen and (max-width: 768px) {
+
+	body {
+		margin: 0;
+	}
+
+	.container {
+		width: 720px;
+		margin: 0 auto;
+	}
+
+	header {
+		font-family: 'Open Sans', sans-serif;
+		background-image: url(../img/bg1.png);
+		height: 570px;
+		background-size: cover;
+	}	
+	
+	h1 {
+		font-family: 'Montserrat', sans-serif;
+		font-size: 38px;
+		margin-top: 0;
+		margin-bottom: 10px;
+		padding-top: 90px;
+		color: #0d319c;
+		font-weight: 500;
+	}
+	
+	p {
+		color: #0d319c;
+	}
+
+	.elipse_top {
+		margin-left: 400px;
+	}
+
+	.elipse1 {
+		width: 40px;
+		height: 40px;
+	}
+	.firstp {
+		display:inline-block;
+	}
+	.elipse_mid {
+		margin-left: 125px;	
+		padding-top: 20px;
+	}
+	.elipse2 {
+		width: 25px;
+		height: 25px;
+		margin-left: 54px;
+	}
+
+	.secp {
+		margin: 10px;
+	}
+	.elipse3 {
+		width: 14px;
+		height: 14px;
+		margin-left: 590px;
+	}
+	.elipse4 {
+		width: 14px;
+		height: 14px;
+	}
+	.secp2 {
+		margin-left: 560px;
+		margin-bottom: 5px;
+	}
+	.bottomp {
+		font-family: 'Montserrat', sans-serif;
+		padding-top: 20px;
+		font-size: 12px;
+		color: white;
+		text-align: center;
+		margin: 12px 0 10px 0;
+	}
+	.shape {
+		height: 17px;
+		width: 35px;
+		margin-left: 342px;
+	}
+	.section2 {
+		background-image: url(../img/bg2.png);	
+		height: 575px;
+		background-size: 768px;
+	}
+	h2 {
+		margin: 0;
+		font-family: 'Montserrat', sans-serif;
+		font-size: 38px;
+		color: white;
+		font-weight: 300;
+		text-align: center;
+		padding-top: 150px;
+	}
+	.bottom2 {
+	margin-top: 255px;
+	}
+	.bottomp2 {
+		font-family: 'Montserrat', sans-serif;
+		padding-top: 20px;
+		font-size: 12px;
+		color: white;
+		text-align: center;
+		margin: 12px 49px 10px 0;
+	}
+	.ice1 {
+		height: 33px;
+		width: 32px;
+		float: left;
+		margin-top: 120px;
+		margin-left: 65px;	
+	}
+	.ice2 {
+		width: 100px;
+		height: 150px;
+		float: right;
+		margin-top: 35px;
+	}
+	.ice3 {
+		float: left;
+		height: 83px;
+		width: 85px;
+		margin-top: 90px;
+		margin-left: 170px;
+	}
+	.ice4 {
+		float: right;
+		height: 58px;
+		width: 65px;
+		margin-top: 190px;
+		margin-right: 150px;
+	}
+	.section3 {
+		background-image: url(../img/bg3.png);	
+		background-size: 768px;
+	}
+
+	.footer {
+	background-color: #f8e6d5;
+	height: 470px;
+	}
+
+	.footerp {
+		color: #232323;
+		margin-top: 0;
+		padding-top: 30px;
+	}
+
+
+
+
+}
